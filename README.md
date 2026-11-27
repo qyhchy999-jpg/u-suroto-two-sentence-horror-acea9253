@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/qyhchy999-jpg/u-suroto-two-sentence-horror-acea9253/rank.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253)
 [![reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/qyhchy999-jpg/u-suroto-two-sentence-horror-acea9253/reward.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253)
 
-Exactly two sentences — the scariest horror story we could write in two sentences: "The baby monitor crackled, and my daughter's voice whispered, 'Mommy, the man in my closet says he misses you.' I don't have a daughter." Sentence one builds the dread with a familiar, domestic detail — a baby monitor, a child's voice, a man in the closet — and sentence two pulls the floor out: there is no daughter at all. The horror is not the man in the closet; it is that the voice knew to call her Mommy.
+Exactly two sentences, 105 characters — the scariest horror story we could write in two sentences: "Every morning the mirror shows me brushing my teeth, and every morning I wave back. Today it waved first." Sentence one builds the dread with a familiar, domestic detail — a mirror, a morning routine, a wave back — and sentence two pulls the floor out in four words: the reflection moved on its own. The horror is not the mirror; it is that the waving back was a habit, and the habit has been watching longer than you have.
 
 ## Entry
 
@@ -22,5 +22,5 @@ Then check the output is UTF-8 text of exactly two sentences and at most 400 cha
 
 MIT — see [LICENSE](LICENSE).
 
-<!-- Second pass: the second sentence is the scare — the first only sets the trap. -->
-<!-- Third pass: two sentences only — the third would explain the joke away. -->
+<!-- Rewritten 2026-11-27: the mirror replaces the baby monitor — four words do the scare. -->
+<!-- "Today it waved first" needs no third sentence — the third would explain the joke away. -->
